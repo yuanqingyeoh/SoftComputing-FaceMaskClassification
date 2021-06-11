@@ -1,11 +1,14 @@
 # Face Mask Classification - Soft Computing Assignment
 
 ## Prediction Results
-
+![alt text](https://github.com/yuanqingyeoh/SoftComputing-FaceMaskClassification/blob/main/images/mobilenet_predictions.png)
 
 ## Dataset
 
 [Face Mask Detection Dataset (Kaggle)](https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset)
+
+Class Distribution of the Dataset \
+![alt text](https://github.com/yuanqingyeoh/SoftComputing-FaceMaskClassification/blob/main/images/class%20distribution%20plot.png)
 
 ## Model Weight
 
